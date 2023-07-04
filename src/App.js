@@ -1,6 +1,5 @@
 import "./App.css";
 import Weather from "./Weather";
-import FormattedDate from "./FormattedDate";
 
 export default function App() {
   return (
